@@ -13,5 +13,10 @@ public class Location extends AppCompatActivity {
         setContentView(R.layout.activity_location);
 
         Intent intent=getIntent();
+
+
+
+        Intent intent_call=new Intent(Location.this, StoreList.class);
+        startActivity(intent_call);
     }
 }
