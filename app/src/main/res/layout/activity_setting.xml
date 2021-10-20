@@ -21,7 +21,7 @@
             android:layout_height="wrap_content"
             android:textSize="26sp"
             android:textColor="@color/white"
-            android:fontFamily="@font/afe24ssurround"/>
+            android:fontFamily="@font/cafe24ssurround"/>
     </LinearLayout>
 
     <LinearLayout

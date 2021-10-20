@@ -16,12 +16,12 @@
         android:gravity="center">
 
         <TextView
-            android:text="현재 위치를 확인해주세요"
+            android:text="현재 위치를 찾는 중입니다..."
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="26sp"
             android:textColor="@color/white"
-            android:fontFamily="@font/afe24ssurround"/>
+            android:fontFamily="@font/cafe24ssurround"/>
     </LinearLayout>
 
     <LinearLayout

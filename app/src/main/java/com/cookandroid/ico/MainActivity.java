@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent=new Intent(MainActivity.this, Location.class);
+                intent.putExtra("option", 0);
                 startActivity(intent);
             }
         });
@@ -49,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent=new Intent(MainActivity.this, Location.class);
+                intent.putExtra("option", 1);
                 startActivity(intent);
             }
         });

@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ICO">
         <activity
+            android:name=".Call"
+            android:exported="true" />
+        <activity
+            android:name=".Order"
+            android:exported="true" />
+        <activity
             android:name=".StoreList"
             android:exported="true" />
         <activity

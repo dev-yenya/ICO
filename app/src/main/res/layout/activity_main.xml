@@ -48,7 +48,7 @@
                     android:textColor="@color/white"
                     android:textSize="24sp"
                     android:gravity="center|bottom"
-                    android:fontFamily="@font/afe24ssurround" />
+                    android:fontFamily="@font/cafe24ssurround" />
 
             </LinearLayout>
         </LinearLayout>
@@ -97,7 +97,7 @@
                     android:text="설정"
                     android:textColor="@color/white"
                     android:textSize="24sp"
-                    android:fontFamily="@font/afe24ssurround" />
+                    android:fontFamily="@font/cafe24ssurround" />
 
             </LinearLayout>
         </LinearLayout>
